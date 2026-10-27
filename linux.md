@@ -1,0 +1,3 @@
+lscpu
+pwd
+ls
